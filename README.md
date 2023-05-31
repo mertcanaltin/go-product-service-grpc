@@ -11,7 +11,7 @@ The client implementation can be found in the `client` directory. It communicate
 To run the client, use the following command:
 
 ```bash
-go run client/client.go`
+go run client/client.go
 ```
 
 Server
