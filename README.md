@@ -6,7 +6,7 @@ This repository contains a gRPC service and client implementation for a product 
 
 ## Client
 
-The client implementation can be found in the `client` directory. It communicates with the gRPC server to retrieve product information. The client code is located in the `main.go` file.
+The client implementation can be found in the `client` directory. It communicates with the gRPC server to retrieve product information. The client code is located in the `client.go` file.
 
 To run the client, use the following command:
 
