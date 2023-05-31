@@ -11,7 +11,7 @@ The client implementation can be found in the `client` directory. It communicate
 To run the client, use the following command:
 
 ```bash
-go run client/main.go`
+go run client/client.go`
 ```
 
 Server
@@ -21,7 +21,7 @@ The server implementation can be found in the `server` directory. It provides a 
 
 To run the server, use the following command:
 
-`go run server/server.go`
+`go run server.go`
 
 Protobuf
 --------
